@@ -7,7 +7,7 @@
   foaf:maker <https://raw.githubusercontent.com/Strailko/foaf/main/foaf.ttl> ;
   foaf:primaryTopic <https://raw.githubusercontent.com/Strailko/foaf/main/foaf.ttl> .
 
-<https://raw.githubusercontent.com/Strailko/foaf/main/foaf.ttl>
+<https://raw.githubusercontent.com/Strailko/foaf/main/foaf.ttl#me>
   a foaf:Person ;
   foaf:name "Mile Jankuloski" ;
   foaf:title "Mr" ;
@@ -20,11 +20,6 @@
   foaf:workplaceHomepage <https://www.telekom.mk/> ;
   foaf:schoolHomepage <https://finki.ukim.mk/> ;
   foaf:knows [
-    a foaf:Person ;
-    foaf:name "Emilija Georgievska" ;
-    foaf:mbox_sha1sum "b0d03fce499aa7696467ed1d15012b2cfccc1f52" ;
-    rdfs:seeAlso <https://raw.githubusercontent.com/GeorgievskaEmilija/wbs-foaf/master/foaf.ttl>
-  ], [
     a foaf:Person ;
     foaf:name "Jelena Ognjanoska" ;
     foaf:mbox_sha1sum "d8b4eae97d0aee756abd9b40663d115e83d1344d" ;
