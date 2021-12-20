@@ -32,6 +32,6 @@
   ], [
     a foaf:Person ;
     foaf:name "Strasho Naumov" ;
-    foaf:mbox_sha1sum "9bac2cc39afdc134a16283415173f2d6fd6849c0" ;
+    foaf:mbox_sha1sum "2a6a26d4a07c593dd6e4abab68c4135f892296a6" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/naumovvvs/foaf/main/foaf.ttl>
   ] .
