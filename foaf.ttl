@@ -14,7 +14,7 @@
   foaf:givenname "Mile" ;
   foaf:family_name "Jankuloski" ;
   foaf:nick "Strailko" ;
-  foaf:mbox_sha1sum "aa6528480e2e38c1d06a5226d65117de137d7f19" ;
+  foaf:mbox_sha1sum "3fbfedd246499d2bd24ac0c3ab3d65dc279c843e" ;
   foaf:homepage <https://github.com/Strailko> ;
   foaf:depiction <https://avatars.githubusercontent.com/u/59649491> ;
   foaf:workplaceHomepage <https://www.telekom.mk/> ;
@@ -22,16 +22,16 @@
   foaf:knows [
     a foaf:Person ;
     foaf:name "Emilija Georgievska" ;
-    foaf:mbox_sha1sum "cb2a9b1fb04eb3a29db3b7d17c69250efc57f988" ;
+    foaf:mbox_sha1sum "b0d03fce499aa7696467ed1d15012b2cfccc1f52" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/GeorgievskaEmilija/wbs-foaf/master/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Jelena Ognjanoska" ;
-    foaf:mbox_sha1sum "6882e6c34d7e1c053599edc0c8402fb2e79bad3d" ;
+    foaf:mbox_sha1sum "d8b4eae97d0aee756abd9b40663d115e83d1344d" ;
     rdfs:seeAlso <https://gitlab.com/ognjanoskajelena/foaf/-/raw/master/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Strasho Naumov" ;
-    foaf:mbox_sha1sum "5ca3578aa0e9bf5787df23287b043089564445d4" ;
+    foaf:mbox_sha1sum "9bac2cc39afdc134a16283415173f2d6fd6849c0" ;
     rdfs:seeAlso <https://raw.githubusercontent.com/naumovvvs/foaf/main/foaf.ttl>
   ] .
